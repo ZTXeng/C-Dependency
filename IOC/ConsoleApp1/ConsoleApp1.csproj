@@ -196,6 +196,8 @@
     <Compile Include="AcModel\HandbookModel.cs" />
     <Compile Include="Command\GettingHandler.cs" />
     <Compile Include="Component\MyCompont.cs" />
+    <Compile Include="DesignPatterns\ProductFactory.cs" />
+    <Compile Include="DesignPatterns\Singleton.cs" />
     <Compile Include="MContainer\MyContainer.cs" />
     <Compile Include="AcModel\HellowModel.cs" />
     <Compile Include="DataModel\PeoplesModel.cs" />
